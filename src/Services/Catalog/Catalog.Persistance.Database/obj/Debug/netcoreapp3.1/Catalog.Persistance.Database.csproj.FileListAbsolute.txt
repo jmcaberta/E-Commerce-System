@@ -1,0 +1,13 @@
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\Catalog.Persistance.Database\bin\Debug\netcoreapp3.1\Catalog.Persistance.Database.deps.json
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\Catalog.Persistance.Database\bin\Debug\netcoreapp3.1\Catalog.Persistance.Database.dll
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\Catalog.Persistance.Database\bin\Debug\netcoreapp3.1\Catalog.Persistance.Database.pdb
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\Catalog.Persistance.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\Catalog.Persistance.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.csproj.AssemblyReference.cache
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.AssemblyInfoInputs.cache
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.AssemblyInfo.cs
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.csproj.CoreCompileInputs.cache
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.csproj.CopyComplete
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.dll
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.pdb

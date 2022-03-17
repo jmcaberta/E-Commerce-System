@@ -1,0 +1,10 @@
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\atalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.deps.json
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\atalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\atalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\atalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.csproj.AssemblyReference.cache
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\atalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\atalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\atalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.AssemblyInfo.cs
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\atalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\atalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\atalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.pdb
