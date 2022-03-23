@@ -28,7 +28,7 @@ namespace Catalog.Api
         {
             services.AddDbContext<AplicationDbContext>(opts =>
                 opts.UseSqlServer(
-                    Configuration.GetConnectionString("DefaultConnection"),
+                    Configuration.GetConnectionString("Connection"),
                     x => x.MigrationsHistoryTable("_EFMigrationHistory", "Catalog")
                     )
                 );
