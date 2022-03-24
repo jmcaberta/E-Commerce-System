@@ -29,7 +29,7 @@ namespace Catalog.Api
             services.AddDbContext<AplicationDbContext>(opts =>
                 opts.UseSqlServer(
                     Configuration.GetConnectionString("Connection"),
-                    x => x.MigrationsHistoryTable("_EFMigrationHistory", "Catalog")
+                    x => x.MigrationsHistoryTable("__EFMigrationHistory", "Catalog")
                     )
                 );
 
