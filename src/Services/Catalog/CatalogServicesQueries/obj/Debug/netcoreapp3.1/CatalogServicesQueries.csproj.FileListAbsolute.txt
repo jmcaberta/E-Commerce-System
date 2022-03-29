@@ -1,0 +1,5 @@
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\CatalogServicesQueries\obj\Debug\netcoreapp3.1\CatalogServicesQueries.csproj.AssemblyReference.cache
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\CatalogServicesQueries\obj\Debug\netcoreapp3.1\CatalogServicesQueries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\CatalogServicesQueries\obj\Debug\netcoreapp3.1\CatalogServicesQueries.AssemblyInfoInputs.cache
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\CatalogServicesQueries\obj\Debug\netcoreapp3.1\CatalogServicesQueries.AssemblyInfo.cs
+C:\Users\Caberta-Haufe\Desktop\E-Commerce System\src\Services\Catalog\CatalogServicesQueries\obj\Debug\netcoreapp3.1\CatalogServicesQueries.csproj.CoreCompileInputs.cache
