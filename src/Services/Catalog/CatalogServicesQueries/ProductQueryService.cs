@@ -15,7 +15,7 @@ namespace CatalogServicesQueries
         Task<DataCollection<ProductDto>> GetAllAsync(int page, int take, IEnumerable<int> products = null);
         Task<ProductDto> GetAsync(int id);
     }
-    public class ProductQueryService
+    public class ProductQueryService : IProductQueryService 
     {
         private readonly AplicationDbContext _context;
         public ProductQueryService(AplicationDbContext context)
