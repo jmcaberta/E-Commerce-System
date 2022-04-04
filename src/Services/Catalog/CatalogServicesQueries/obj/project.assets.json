@@ -1491,6 +1491,40 @@
         "runtime": {
           "bin/placeholder/Catalog.Persistance.Database.dll": {}
         }
+      },
+      "Service.Common.Collection/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Service.Common.Collection.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.Common.Collection.dll": {}
+        }
+      },
+      "Service.Common.Mapping/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Service.Common.Mapping.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.Common.Mapping.dll": {}
+        }
+      },
+      "Service.Common.Paging/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.23",
+          "Service.Common.Collection": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.Common.Paging.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.Common.Paging.dll": {}
+        }
       }
     }
   },
@@ -5636,11 +5670,28 @@
       "type": "project",
       "path": "../Catalog.Persistance.Database/Catalog.Persistance.Database.csproj",
       "msbuildProject": "../Catalog.Persistance.Database/Catalog.Persistance.Database.csproj"
+    },
+    "Service.Common.Collection/1.0.0": {
+      "type": "project",
+      "path": "../../../../Service.Common.Collection/Service.Common.Collection.csproj",
+      "msbuildProject": "../../../../Service.Common.Collection/Service.Common.Collection.csproj"
+    },
+    "Service.Common.Mapping/1.0.0": {
+      "type": "project",
+      "path": "../../../../Service.Common.Mapping/Service.Common.Mapping.csproj",
+      "msbuildProject": "../../../../Service.Common.Mapping/Service.Common.Mapping.csproj"
+    },
+    "Service.Common.Paging/1.0.0": {
+      "type": "project",
+      "path": "../../../../Service.Common.Paging/Service.Common.Paging.csproj",
+      "msbuildProject": "../../../../Service.Common.Paging/Service.Common.Paging.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Catalog.Persistance.Database >= 1.0.0"
+      "Catalog.Persistance.Database >= 1.0.0",
+      "Service.Common.Mapping >= 1.0.0",
+      "Service.Common.Paging >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5677,6 +5728,12 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\Caberta-Haufe\\Desktop\\E-Commerce System\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+              "projectPath": "C:\\Users\\Caberta-Haufe\\Desktop\\E-Commerce System\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
+            },
+            "C:\\Users\\Caberta-Haufe\\Desktop\\E-Commerce System\\Service.Common.Paging\\Service.Common.Paging.csproj": {
+              "projectPath": "C:\\Users\\Caberta-Haufe\\Desktop\\E-Commerce System\\Service.Common.Paging\\Service.Common.Paging.csproj"
+            },
             "C:\\Users\\Caberta-Haufe\\Desktop\\E-Commerce System\\src\\Services\\Catalog\\Catalog.Persistance.Database\\Catalog.Persistance.Database.csproj": {
               "projectPath": "C:\\Users\\Caberta-Haufe\\Desktop\\E-Commerce System\\src\\Services\\Catalog\\Catalog.Persistance.Database\\Catalog.Persistance.Database.csproj"
             }

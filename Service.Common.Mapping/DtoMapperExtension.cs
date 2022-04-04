@@ -1,10 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Text.Json;
 
 namespace Service.Common.Mapping
 {
-    internal class DtoMapperExtension
+    public static class DtoMapperExtension
     {
+        public static T MapTo<T>(this object value)
+        {
+            return JsonSerializer.Deserialize<T>(
+                JsonSerializer.Serialize(value));
+        }
     }
 }

@@ -1,6 +1,7 @@
 ﻿using Service.Common.Collection;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -16,6 +17,7 @@ namespace Service.Common.Paging
             var originalPages = page;
 
             page--;
+
             if (page > 0)
                 page = page * take;
 
@@ -25,6 +27,7 @@ namespace Service.Common.Paging
                 Total = await query.CountAsync(),
                 Page = originalPages
             };
+
         }
     }
 }
